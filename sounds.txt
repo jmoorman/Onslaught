@@ -1,0 +1,12 @@
+player
+fire
+fire.wav
+player
+death
+pl_die1.wav
+
+
+
+
+
+
